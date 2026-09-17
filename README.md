@@ -25,6 +25,7 @@ MQVPN не связан с другими GitHub-проектами, пакет�
 - [VPN на Android](https://mqvpn.lol/vpn-na-android)
 - [VPN на Windows](https://mqvpn.lol/vpn-na-windows)
 - [VPN на Android TV](https://mqvpn.lol/vpn-na-android-tv)
+- [VPN на Mac](https://mqvpn.lol/vpn-na-mac)
 - [VPN для телефона](https://mqvpn.lol/vpn-dlya-telefona)
 - [Все инструкции](https://mqvpn.lol/instructions)
 
@@ -35,10 +36,19 @@ MQVPN не связан с другими GitHub-проектами, пакет�
 - [VPN для России](https://mqvpn.lol/vpn-dlya-rossii)
 - [VPN для Telegram](https://mqvpn.lol/vpn-dlya-telegram)
 - [VPN для YouTube](https://mqvpn.lol/vpn-dlya-youtube)
+- [VPN для WhatsApp](https://mqvpn.lol/vpn-dlya-whatsapp)
+- [VPN для ВКонтакте](https://mqvpn.lol/vpn-dlya-vk)
+- [VPN для TikTok](https://mqvpn.lol/vpn-dlya-tiktok)
+- [VPN для Instagram](https://mqvpn.lol/vpn-dlya-instagram)
+- [VPN для Facebook](https://mqvpn.lol/vpn-dlya-facebook)
+- [VPN для Discord](https://mqvpn.lol/vpn-dlya-discord)
+- [VPN для соцсетей](https://mqvpn.lol/vpn-dlya-sotssetey)
+- [Прокси или VPN: в чём разница](https://mqvpn.lol/proxy-ili-vpn)
 - [Как настроить VPN](https://mqvpn.lol/kak-nastroit-vpn)
 - [Как выбрать VPN](https://mqvpn.lol/kak-vybrat-vpn)
 - [Бесплатный VPN: условия и ограничения](https://mqvpn.lol/besplatnyy-vpn)
 - [Что такое MQVPN](https://mqvpn.lol/o-mqvpn)
+- [Официальная информация для медиа и авторов](https://mqvpn.lol/press)
 
 ## Коротко о подключении
 
