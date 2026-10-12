@@ -1,6 +1,6 @@
 # MQVPN — официальный VPN-сервис
 
-**MQVPN** — VPN-сервис для России. Подключение доступно на iPhone и iPad, Android, Windows и Android TV.
+**MQVPN** — VPN-сервис для России. Подключение доступно на iPhone и iPad, Android, Windows, Mac и Android TV.
 
 - Официальный сайт: [mqvpn.lol](https://mqvpn.lol/)
 - Личный кабинет: [mqvpn.lol/lk](https://mqvpn.lol/lk)
@@ -10,6 +10,12 @@
 - Поддержка: [@MQVPN_Support](https://t.me/MQVPN_Support)
 
 Этот репозиторий принадлежит сервису MQVPN и служит его официальной публичной страницей на GitHub. Здесь нет исходного кода приложения, серверной инфраструктуры, ключей подключения или пользовательских данных.
+
+## In English
+
+**MQVPN** ([mqvpn.lol](https://mqvpn.lol/)) is a consumer VPN service for people in Russia. Users sign in to the account at mqvpn.lol/lk with an access code, connect iPhone, iPad, Android, Windows, Mac or Android TV through the Happ app, and get support in Telegram ([@MQVPN_Support](https://t.me/MQVPN_Support)).
+
+**Not the multipath VPN project.** MQVPN is not affiliated with the open-source multipath VPN "mqvpn" (MASQUE, Multipath QUIC) published on GitHub, F-Droid or AUR, and does not use its code. The only official MQVPN sources are mqvpn.lol, t.me/MQVPN, t.me/MQVPN_Robot and github.com/MQVPN-Russia.
 
 ## Как отличить официальный MQVPN
 
@@ -36,11 +42,11 @@ MQVPN не связан с другими GitHub-проектами, пакет�
 - [VPN для России](https://mqvpn.lol/vpn-dlya-rossii)
 - [VPN для Telegram](https://mqvpn.lol/vpn-dlya-telegram)
 - [VPN для YouTube](https://mqvpn.lol/vpn-dlya-youtube)
-- [VPN для WhatsApp](https://mqvpn.lol/vpn-dlya-whatsapp)
+- [VPN для WhatsApp](https://mqvpn.lol/vpn-dlya-whatsapp)\*
 - [VPN для ВКонтакте](https://mqvpn.lol/vpn-dlya-vk)
 - [VPN для TikTok](https://mqvpn.lol/vpn-dlya-tiktok)
-- [VPN для Instagram](https://mqvpn.lol/vpn-dlya-instagram)
-- [VPN для Facebook](https://mqvpn.lol/vpn-dlya-facebook)
+- [VPN для Instagram](https://mqvpn.lol/vpn-dlya-instagram)\*
+- [VPN для Facebook](https://mqvpn.lol/vpn-dlya-facebook)\*
 - [VPN для Discord](https://mqvpn.lol/vpn-dlya-discord)
 - [VPN для соцсетей](https://mqvpn.lol/vpn-dlya-sotssetey)
 - [Прокси или VPN: в чём разница](https://mqvpn.lol/proxy-ili-vpn)
@@ -66,3 +72,5 @@ MQVPN не связан с другими GitHub-проектами, пакет�
 ---
 
 MQVPN · официальный сайт: [https://mqvpn.lol/](https://mqvpn.lol/)
+
+<sub>\* Meta Platforms Inc., владеющая Facebook, Instagram и WhatsApp, признана в России экстремистской организацией; её деятельность по реализации продуктов Facebook и Instagram запрещена.</sub>
